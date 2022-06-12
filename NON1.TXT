@@ -1,0 +1,21 @@
+10
+Chicken Biryani
+80
+Chicken Lollypop
+110
+Chicken Dam Bryani
+110
+Fish Fry
+130
+Chicken Chilly Dry
+130
+Chicken Crispy
+140
+Chicken Chilly Gravy
+160
+Fish Curry
+160
+Mutton Sukha
+220
+Fish Roasted
+300

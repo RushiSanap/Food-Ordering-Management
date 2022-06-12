@@ -1,0 +1,21 @@
+10
+Hara Bhara Kabab
+180
+Cheese Paneer Pakoda 
+240
+Paneer Banjara Kabab
+250
+Paneer Angara Kabab
+250
+Chicken Banjara Kabab
+300
+Chicken Pahadi Kabab
+300
+Mutton Fry
+325
+Tandoori Surmai
+375
+Paneer Plater
+550
+Chicken Patter
+900

@@ -1,0 +1,24 @@
+10
+Peas Masala
+110
+Chenna Masala
+110
+veg Jaypuri
+110
+Mashroom Biryani
+130
+Bhendi Masala 
+140
+Chicken Ghee Roast
+140
+Grill Chicken 
+150
+Mutton Royal
+150
+Chicken Biryani
+300
+Mutton Miryani
+500
+
+
+

@@ -1,0 +1,21 @@
+10
+Chicken Masala 
+120
+Butter Chicken
+130
+Nellore Chicken 
+130
+Chicken Punjabi
+130
+Veg Kolhapuri
+150
+Tomato Bharta
+150
+Mix Veg
+150
+Veg Chingari
+160
+Tawa Veg
+180
+Chicken Drumsticks
+190

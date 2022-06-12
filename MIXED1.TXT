@@ -1,0 +1,21 @@
+10
+Cheese Paratha
+100
+Panner Paraths
+100
+Veg Fried Rice
+130
+Palak Fried Rice
+140
+Paneer Fried Rice
+160
+Chicken Hakka Noodles
+160
+Chicken Hakkha Noodles
+160      
+Kori Sukha 
+170
+Bangda Puli Munchi
+180
+Mutton Sukkha 
+200

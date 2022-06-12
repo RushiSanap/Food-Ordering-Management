@@ -1,0 +1,21 @@
+10
+veg cheese sandwitch 
+50
+alu paratha 
+50
+masala uttappa 
+50
+veg cheese toast 
+60
+dahi vada 
+60
+chole bhature 
+70
+veg pizza 
+70
+veg cheese pizza 
+80
+mushroom pizza 
+80
+cheese pakaoda 
+120

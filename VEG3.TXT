@@ -1,0 +1,23 @@
+10
+Shev Bhaji
+120
+Paneer Pakoda
+130
+Chesse Pakoda 
+140
+Kobi tikka 
+140
+Mix Vegetable
+145
+Veg Kolhapuri
+155
+Gandharv SPL Tikka
+160
+Veg Chilli Milli
+160
+Veg Handi
+160
+Veg Kofta
+165
+
+

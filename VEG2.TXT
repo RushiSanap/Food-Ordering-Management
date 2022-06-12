@@ -1,0 +1,23 @@
+10
+Vegeterian Clear Soup
+80
+Sweet Corn Veg Soup
+90
+Veg Fried Rice
+110
+Mashroom Chilly
+110
+Mixed Veg Curry
+120
+Veg Kurma
+120
+Aloo Gobhi
+120
+Veg Crispy
+140
+Gobi Manchurian
+140
+Panner Chilly
+140
+
+

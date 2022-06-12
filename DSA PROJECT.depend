@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1618218922 source:c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\food item.c
+
+1618803118 source:c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Restaurant.h"
+	"Billing.h"
+
+1618468451 source:c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\queue.c
+	<stdio.h>
+	<limits.h>
+	"queue.h"
+
+1619085408 source:c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\restaurant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Restaurant.h"
+	"MenuCard.h"
+
+1618799977 c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\restaurant.h
+
+1618803123 c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\menucard.h
+
+1619085408 source:c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\menucard.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"MenuCard.h"
+
+1618219568 c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\queue.h
+
+1619085408 source:c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\billing.c
+	<string.h>
+	<stdio.h>
+	<time.h>
+	"Billing.h"
+
+1618494283 c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\billing.h
+	"MenuCard.h"
+	"queue.h"
+
+1618504028 source:c:\users\sanap\desktop\sy computer homework sem-2\dsa lab\dsa project\help.c
+	"Billing.h"
+
+1619085410 source:c:\users\sanap\desktop\dsa project\billing.c
+	<string.h>
+	<stdio.h>
+	<time.h>
+	"Billing.h"
+
+1618494284 c:\users\sanap\desktop\dsa project\billing.h
+	"MenuCard.h"
+	"queue.h"
+
+1618803124 c:\users\sanap\desktop\dsa project\menucard.h
+
+1618219570 c:\users\sanap\desktop\dsa project\queue.h
+
+1618504030 source:c:\users\sanap\desktop\dsa project\help.c
+	"Billing.h"
+
+1618803120 source:c:\users\sanap\desktop\dsa project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Restaurant.h"
+	"Billing.h"
+
+1618799978 c:\users\sanap\desktop\dsa project\restaurant.h
+
+1619085410 source:c:\users\sanap\desktop\dsa project\menucard.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"MenuCard.h"
+
+1618468452 source:c:\users\sanap\desktop\dsa project\queue.c
+	<stdio.h>
+	<limits.h>
+	"queue.h"
+
+1619085410 source:c:\users\sanap\desktop\dsa project\restaurant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Restaurant.h"
+	"MenuCard.h"
+

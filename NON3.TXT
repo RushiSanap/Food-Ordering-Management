@@ -1,0 +1,22 @@
+10
+Bangada Fry
+100
+Bangda Neket Fry
+100
+Bangada Masala
+140
+Chicken Bhoona 
+170
+Chicken Tikka Masala
+170
+Surmai Malwani Fry
+210
+Surmai Fry
+220
+Prawns Tawa Fry
+230
+Chicken Ghee Roast
+290
+Chicken Karela Kabab
+320
+

@@ -1,0 +1,51 @@
+10
+Orchid Hotel
+Hinjewadi pune, 411057
+9970467537
+Veg
+101
+Vivanta pune
+Hinjewadi pune, 411057
+9922544210
+Veg
+102
+Hotel shivshakti lodge
+Hinjewadi pune, 411005
+9730771052
+Veg
+103
+hyatt place
+Hinjewadi Pune, 411057
+9284518269
+Non Veg
+104
+The O hotel
+koregaon Park Pune, 411001
+8668842533
+Non Veg
+105
+Ramme Grand Hotel
+Shivajinagar Pune, 411005
+8329932873
+Non Veg
+106
+Marriott Suites Pune
+Viman Nagar, 411014
+9874651230
+Mixed
+107
+Sayaji Hotel pune
+Pimpri Pune, 415511
+7517881269
+Mixed
+108
+Hotel Shree Panchratna pune
+Pimpri Pune, 415511
+9284404250
+Mixed
+109
+Ibis pune
+Viman Nagar, 411014
+9850085870
+Mixed
+110
